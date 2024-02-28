@@ -20,7 +20,7 @@ NewsMonkey is a responsive web application built using Bootstrap and React that 
 
 ## Setup Instructions
 1. **Clone the Repository**: Clone the NewsMonkey repository to your local machine using the following command:
-git clone <repository_url>
+git clone https://github.com/AbdulRahman0602/News_Website.git
 
 2. **Install Dependencies**: Navigate to the project directory and install the required dependencies using npm or yarn:
 cd newshub
